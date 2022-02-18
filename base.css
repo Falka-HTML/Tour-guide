@@ -188,7 +188,7 @@ footer>div>img{
 }
 footer>div>img:hover{
     background-color: grey;
-transition: 1s linear;
+transition: 0.5s linear;
 }
 .untitled_title{
     text-align: center;
