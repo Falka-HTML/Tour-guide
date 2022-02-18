@@ -196,13 +196,14 @@ transition: 1s linear;
 }
 
 .text-back{
-    background-color: rgb(169,169,169,0.4);
+    
     font-size: 16pt;
     border-radius: 40px;
     padding: 15%;
     opacity: 0%;
+    transition: opacity 1s linear;
 }
 .text-back:hover{
 opacity: 100%;
-transition: 1s linear;
+transition: opacity 1s linear;
 }
